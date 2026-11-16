@@ -20,7 +20,7 @@ The dataset (`house.csv`) contains **4,746 records** and **12 features** describ
     ├── data/
     │   └── house.csv               # Raw dataset
     ├── notebooks/
-    │   └── house_rent_eda.ipynb    # Jupyter Notebook with data cleaning, analysis, and visualizations
+    │   └── india-house-rent-eda.ipynb    # Jupyter Notebook with data cleaning, analysis, and visualizations
     ├── .gitignore                  # Ignored temporary and system files           
     └── README.md                   # Project documentation
 
